@@ -1,0 +1,2 @@
+# gorabbitmq
+golang的rabbitmq的基本操作封装sdk
